@@ -1,2 +1,2 @@
 def is_valid(x):
-    return x > 0
+return x > 0
